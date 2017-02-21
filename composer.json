@@ -1,0 +1,21 @@
+{
+  "name": "xhrix/demo",
+  "description": "Simple project to learn how to use packagist.",
+  "type": "library",
+  "require": {
+    "php": "^7.0",
+    "nesbot/carbon": "^1.22"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xhrix",
+      "email": "xxxhrixxx@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "xhrix\\": "src/demo/"
+    }
+  }
+}
