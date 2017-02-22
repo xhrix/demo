@@ -16,7 +16,7 @@ class ClassA
      *
      * @var string
      */
-    public $color = 'lince intergalactico';
+    public $color = 'lince intergalactico pro np de oro';
 
     /**
      * Simple function.
