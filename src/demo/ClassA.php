@@ -16,7 +16,7 @@ class ClassA
      *
      * @var string
      */
-    public $color = 'perrito';
+    public $color = 'lince';
 
     /**
      * Simple function.
