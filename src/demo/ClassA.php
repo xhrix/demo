@@ -23,6 +23,6 @@ class ClassA
      */
     public static function simpleFunction()
     {
-
+        var_dump('Elfa intergalactica');
     }
 }
